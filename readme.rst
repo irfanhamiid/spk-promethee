@@ -18,7 +18,7 @@ Teknologi yang digunakan
 Hak Akses
 **************************
 
-Admin
+1. Admin
 - username : admin
 - password : admin
 
