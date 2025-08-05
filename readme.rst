@@ -14,14 +14,6 @@ Teknologi yang digunakan
 4. Boostrap 4
 5. SB Admin 
 
-**************************
-Hak Akses
-**************************
-
-1. Admin
-- username : admin
-- password : admin
-
 *******************
 Fitur
 *******************
